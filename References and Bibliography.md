@@ -2,9 +2,18 @@
 
 
 
-1)  ## YOUTUBE LINKS ##
- We’ve watched a lot of Youtube Videos to get acquainted with the experimental parts,the precautions needed, and some worthy experiences. 
-      a) 
+1)  ## **YOUTUBE LINKS** ##
+ We’ve watched a lot of Youtube Videos to get acquainted with the experimental parts,the precautions needed, and some worthy experiences. <br>
+             a) https://youtu.be/LY6xeFpBeMQ <br>
+             b) https://youtube.com/shorts/x5BFIVDUQPE?feature=share <br>
+             c) https://youtube.com/shorts/Yk0Mx5NpRYs?feature=share <br>
+             d) https://youtu.be/wCrtk-pyP0I <br>
+             e) https://youtu.be/PGX289yjew8  <br>
+             f) https://youtu.be/vGhJy3E9hfg  <br>
+             g) https://youtu.be/0LmaXQsssYY  <br>
+             h) https://youtu.be/D7AmFSRv4d8  <br>
+             i) https://youtu.be/YV7AbI8jmS4   <br>
+             j) https://www.youtube.com/watch?v=wA4uZGRENas  <br>
 
 2) https://www.pnas.org/doi/epdf/10.1073/pnas.1818350116: 
    A very detailed Article to understand the Physics behind **Microwave Induced Grape Plasma**. It also discusses the different cases of arranging the grapes and the reasoning behind the manner & characteristics of the      Sparkling.
