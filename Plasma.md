@@ -72,5 +72,6 @@ and ions, which can have a significant impact on the behavior of the plasma. Non
 or using high-energy radiation. Non-equilibrium plasma has many unique properties that make it useful for a wide range of applications, such as in plasma cutting and
 welding, surface treatment, and plasma-based medicine.
 
-![image](https://user-images.githubusercontent.com/130882317/236658005-c654c4bb-ade2-4f76-8a08-88e3f56d7338.png)
+
+![Screenshot (507)](https://user-images.githubusercontent.com/130882317/236658063-ffb0ec38-53b1-455f-a790-60499a8af59e.png)
 
