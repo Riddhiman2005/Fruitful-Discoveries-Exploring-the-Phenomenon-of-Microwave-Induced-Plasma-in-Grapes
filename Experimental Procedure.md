@@ -40,6 +40,4 @@ this point, stop the microwave to prevent further damage. <br>
 We will see **flares** and **sparks** associated with the grapes *as an effect of microwaves*.
 ![Grape-1](https://user-images.githubusercontent.com/130882317/236738816-3165b4ba-51ee-4bfc-b795-3d93056b945e.png)
 
-<br>
-<br>
-![Screenshot (504)](https://user-images.githubusercontent.com/130882317/236739087-414702e4-467d-4012-9b54-2acf6d524c57.png)
+
