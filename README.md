@@ -1,5 +1,8 @@
 # Fruitful-Discoveries-Exploring-the-Phenomenon-of-Microwave-Induced-Plasma-in-Grapes
 
+![image](https://github.com/Riddhiman2005/Fruitful-Discoveries-Exploring-the-Phenomenon-of-Microwave-Induced-Plasma-in-Grapes/assets/130882317/837347f9-e939-4fee-af51-be4cd513ca78)
+
+
 Microwave-induced plasma in grape hemispheres is a unique phenomenon that has
 gained considerable attention in recent years and has opened up new applications in
 the fields of Physics and Industry. In this article, we will explore the phenomenon
@@ -22,3 +25,11 @@ to its applications. A study found that the plasma could be used to control plan
 diseases and remove pesticide residues from grape clusters. One of the most exciting
 applications of grape plasma is in the field of carbon dioxide methanation. Lee and his
 team found that grape plasma can be used as a catalyst (because of its high catalytic
+activity) for converting carbon dioxide into methane, which is promising in the field of renewable energy. 
+In conclusion, microwave-induced plasma in grape hemispheres is a fascinating phenomenon and has potential applications in fields such as renewable energy generation and agriculture. 
+
+
+
+
+![image](https://github.com/Riddhiman2005/Fruitful-Discoveries-Exploring-the-Phenomenon-of-Microwave-Induced-Plasma-in-Grapes/assets/130882317/3cbc711f-9c14-435b-aeb3-ad244b838a67)
+
