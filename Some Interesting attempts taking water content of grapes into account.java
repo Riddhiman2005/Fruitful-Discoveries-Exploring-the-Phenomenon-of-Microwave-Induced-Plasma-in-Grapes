@@ -1,13 +1,7 @@
+// We made an attempt to take input the water content of grapes, the blaze start coefficient, the duration coefficient 
+//and use the inputs to predict the apporximate the blaze start time, the duration of the blaze(plasma) and the energy produced in Joules.
 
-
-
-
-
-
-
-
-
-
+// THe blaze start coefficient and the duration coefficient can be predicted after experimentation of the project 4-5 times with careful observation and data interplotation.
 
 
 
