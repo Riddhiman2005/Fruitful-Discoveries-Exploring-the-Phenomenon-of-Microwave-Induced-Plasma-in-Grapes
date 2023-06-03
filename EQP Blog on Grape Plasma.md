@@ -9,3 +9,5 @@ A little bit about "Everlasting Quest For Physics". It's an initiative to groom 
 science not as a matter of interest, but mostly because of good grades,social steretoypes and vast number of opportunities-medical/Enginnering. 
 
 EQP blogs try to focus on growing the interests for Physics( specially) and Science as a whole.
+
+Follow this Instagram Account of [EQP](https://www.instagram.com/everlastingquestforphysics/) to get Physics stuffs. 
